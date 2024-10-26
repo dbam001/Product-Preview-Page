@@ -1,11 +1,7 @@
 /* GLOBAL STYLES */
-html { 
-    overflow-y: hidden; 
-}
-
 body {
     background-color: hsl(30, 38%, 92%);
-    margin: 0 auto;
+    margin: 0;
 }
 
 h1 {
@@ -105,7 +101,7 @@ button:hover {
 
 /* WIDTH-SPECIFIC STYLES */
 
-@media (max-width: 600px) {
+@media (max-width: 1699px) {
     /* FLEXBOX STYLING */
     .perfume-desktop {
         display: none;
@@ -145,7 +141,7 @@ button:hover {
 
 }
 
-@media (min-width: 601px) {
+@media (min-width: 1700px) {
     /* FLEXBOX STYLING */
     .perfume-mobile {
         display: none;
@@ -155,7 +151,7 @@ button:hover {
         flex-direction: row;
         justify-content: center;
         margin: auto auto;
-        margin-top: 40px;
+        margin-top: 200px;
     }
 
     .perfume-desktop { 
