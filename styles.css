@@ -101,7 +101,7 @@ button:hover {
 
 /* WIDTH-SPECIFIC STYLES */
 
-@media (max-width: 1699px) {
+@media (max-width: 800px) {
     /* FLEXBOX STYLING */
     .perfume-desktop {
         display: none;
@@ -141,7 +141,7 @@ button:hover {
 
 }
 
-@media (min-width: 1700px) {
+@media (min-width: 801px) {
     /* FLEXBOX STYLING */
     .perfume-mobile {
         display: none;
