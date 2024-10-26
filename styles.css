@@ -155,7 +155,7 @@ button:hover {
         flex-direction: row;
         justify-content: center;
         margin: auto auto;
-        margin-top: 50px;
+        margin-top: -200px;
     }
 
     .perfume-desktop { 
