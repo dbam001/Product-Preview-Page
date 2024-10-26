@@ -144,6 +144,10 @@ button:hover {
         font-size: 1.3em;
     }
 
+    .attribution {
+        margin-top: 10px;
+        width: 90%;
+    }
 }
 
 @media (min-width: 1001px) {
@@ -195,6 +199,11 @@ button:hover {
 
     button { 
         margin-top: 20px;
+    }
+
+    .attribution {
+        margin-top: 10px;
+        width: 478px;
     }
 }
 
@@ -261,6 +270,11 @@ button:hover {
     .cart-icon {
         max-width: 30%;
         margin-bottom: -3px;
+    }
+
+    .attribution {
+        margin-top: 10px;
+        width: 270px;
     }
 
 }
