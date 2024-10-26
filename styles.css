@@ -1,4 +1,9 @@
 /* GLOBAL STYLES */
+html { 
+    overflow-y: hidden;
+    overflow-x: hidden;
+}
+
 body {
     background-color: hsl(30, 38%, 92%);
     margin: 0;
