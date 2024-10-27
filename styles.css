@@ -215,10 +215,6 @@ button:hover {
 }
 
 @media (max-width: 700px) {
-    html {
-        overflow-x: hidden;
-    }
-
     /* FLEXBOX STYLING */
     .perfume-desktop {
         display: none;
@@ -226,7 +222,7 @@ button:hover {
 
     .container {
         flex-direction: column;
-        width: 300px;
+        width: 400px;
         margin-top: 40px;
     }
 
