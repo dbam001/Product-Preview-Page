@@ -142,6 +142,7 @@ button:hover {
     .attribution {
         margin-top: 10px;
         width: 90%;
+        text-align: center;
     }
 }
 
@@ -199,6 +200,7 @@ button:hover {
     .attribution {
         margin-top: 10px;
         width: 478px;
+        text-align: center;
     }
 }
 
@@ -270,6 +272,7 @@ button:hover {
     .attribution {
         margin-top: 10px;
         width: 270px;
+        text-align: center;
     }
 
 }
