@@ -116,28 +116,40 @@ button:hover {
 
     .perfume-description {
         margin-top: -10px;
-        min-width: 606px;
-        max-width: 606px;
+        min-width: 406px;
+        max-width: 406px;
         border-radius: 0 0 15px 15px;
     }
 
     .perfume { 
+        width: 486px;
         border-radius: 15px 15px 0 0;
     }
 
     /* TYPOGRAPHY */
     h1 {
         line-height: 1;
-        font-size: 4rem;
+        font-size: 2.2rem;
     }
     
     p { 
         line-height: 1.5;
-        font-size: 1.7em;
+        font-size: 1.2rem;
     }
     
     .perfume-text {
-        font-size: 1.3em;
+        font-size: 1rem;
+        margin-bottom: 1px;
+    }
+
+    button {
+        font-family: Montserrat;
+        font-size: 1.5rem;
+        font-weight: 550; 
+
+        height: 70px;
+        width: 95%;
+        border-radius: 10px;
     }
 
     .attribution {
@@ -269,6 +281,7 @@ button:hover {
 
     .attribution {
         text-align: center;
+        font-size: 0.8rem;
     }
 
 }
